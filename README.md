@@ -11,7 +11,8 @@
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **https://zinminnhtun.github.io/portfolio1/**
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinminnhtun)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinminnhtun&show_icons=true&theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
